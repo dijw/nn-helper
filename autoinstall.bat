@@ -26,7 +26,6 @@ for %%A in (
     )
 )
 
-:: Поиск WinRAR
 set "WINRAR="
 for %%A in (
     "%ProgramFiles%\WinRAR\WinRAR.exe"
